@@ -1,4 +1,4 @@
-# das [mathemann](https://www.youtube.com/user/Mathemann) wird dich essen
+# das [mathemann](https://www.youtube.com/@mathemanntastisch4648) wird dich essen
 
 ## polynomfunktionen
 
