@@ -123,6 +123,22 @@ $x = 1$
 
 ## globaler verlauf
 
+### S. 70 Nr. 1
+
+a)
+
+$f(x) = (x + 2)^2$
+
+für $x \rightarrow ∞$: $f(x) \rightarrow ∞$
+
+für $x \rightarrow -∞$: $f(x) \rightarrow ∞$
+
+$f(x) \rightarrow ∞$ für $x \rightarrow -∞$.
+
+b)
+
+$f(x) = 3x(x-1)^2$
+
 ## nullstellen
 
 ## schnittpunkt y achse ablesen
